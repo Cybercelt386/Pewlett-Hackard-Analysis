@@ -22,6 +22,14 @@ In my analysis I created a database to store information about the companies emp
 
 *  a list of eligable employees for the mentorship program
 
+
+
+![Capture3](https://user-images.githubusercontent.com/111584967/198442367-37072781-c20e-4665-84df-38ddda4ed861.PNG)
+
+
+
+
+
 * Number of mentorship ready employees 33118
 
 
@@ -32,5 +40,13 @@ In my analysis I created a database to store information about the companies emp
 
 ## 
 There are 7 different roles that need to be filled multilpe openings are present for each role.
+
+
+
+
+![Capture2](https://user-images.githubusercontent.com/111584967/198440667-f5476ca4-d21f-46e4-b9ac-b63699fceaa6.PNG)
+
+
+
 
 Beacuse the number of mentors matches the number of employees leaving their should be enough to train new people to fill outgoing roles
