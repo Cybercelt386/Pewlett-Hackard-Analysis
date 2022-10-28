@@ -8,11 +8,27 @@ In my analysis I created a database to store information about the companies emp
 
 * The Number of retiring employeees: 33118 employees 
 
+
+![Count_retirement_employees](https://user-images.githubusercontent.com/111584967/198431100-52d9e6d0-1ba3-4de7-b513-8b01457b9122.PNG)
+
+
+
 * The number of each job title retiring
+
+
+
+
+
 
 *  a list of eligable employees for the mentorship program
 
 * Number of mentorship ready employees 33118
+
+
+![mentorship](https://user-images.githubusercontent.com/111584967/198434262-104152a9-67b9-465e-9917-6af162b61b04.PNG)
+
+
+
 
 ## 
 There are 7 different roles that need to be filled multilpe openings are present for each role.
